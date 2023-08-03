@@ -1,27 +1,44 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm jiman-You</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[header](https://capsule-render.vercel.app/api?type=waving&color=0:614385,100:516395&height=170&section=header&text=Tae%20young&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  
+### :wave: Hi! I'm Jiman :wave:
+My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🛠️ Skills 🛠️
+**[ Programming Languages ]**<br>
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
+<br>
+**[ Frontend ]**<br>
+![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
+![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
+![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)
+![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)<br>
+**[ Backend & DB & BaaS ]**<br>
+![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20)
+![node badge](https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat-square&logo=Node.js&logoColor=white&color=339933)
+![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
+![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
+![moongse badge](https://img.shields.io/badge/-MongoDB-%23F7DF1E?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
+![heroku badge](https://img.shields.io/badge/-Heroku-%23F7DF1E?style=flat-square&logo=Heroku&logoColor=white&color=430098)<br>
+**[ Design ]**<br>
+![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
+
+### 📖 Now Studying 📖
+![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
+### 🦁 Activity 🦁
+신한DS 금융IT 아카데미
+ 
+### 🥰 Follow Me 🥰
+<a href="https://blog.naver.com/mongdoonim"><img src="https://blog.naver.com/PostList.naver?blogId=mongdoonim&widgetTypeCall=true&topReferer=https%3A%2F%2Fwww.naver.com%2F&directAccess=true#"/></a>
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiman-you)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/jiman-you/hit-counter
 
-<!--
-**jiman-you/jiman-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
