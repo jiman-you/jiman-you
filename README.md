@@ -7,8 +7,7 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
-
-<a href="[https://simpleicons.org/?q=java]" target="_blank"><img src="https://img.shields.io/badge/[javascript]-[F7DF1E]?style=flat-square&logo=[javascript]&logoColor=white"/></a>
+![javascript badge](https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
 <br>
 **[ Frontend ]**<br>
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
