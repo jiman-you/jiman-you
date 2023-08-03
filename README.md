@@ -34,7 +34,7 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 신한DS 금융IT 아카데미
  
 ###  Follow Me 
-<a href="https://blog.naver.com/mongdoonim"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square"/></a>
+<a href="https://blog.naver.com/mongdoonim"><img src="https://img.shields.io/badge/jiman`s BOLG-000000?style=flat-square"/></a>
 </div>
 
 
