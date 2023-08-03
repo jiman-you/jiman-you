@@ -38,9 +38,9 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiman-you&row=1&col=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiman-you)](https://github.com/anuraghazra/github-readme-stats)
 ![jimna`s GitHub stats](https://github-readme-stats.vercel.app/api?username=jiman-you&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jiman-you)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiman-you&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiman-you%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
